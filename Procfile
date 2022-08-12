@@ -1,1 +1,1 @@
-worker: python chat.py 
+worker: python3 chat.py 
