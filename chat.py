@@ -8,7 +8,7 @@ import discordSuperUtils
 bot = commands.Bot(command_prefix="-", intents=discord.Intents.all())
 ReactionManager = discordSuperUtils.ReactionManager(bot)
 
-TOKEN="OTQ2NDAxNDg0OTIzMzY3NDM1.YheLEQ.vEBYzoaPIDN36y3T-v9TozWQ2zo"
+TOKEN=""
 
 client= discord.Client()
 abuses= ("fuck","dumbass", "motherfucker")
